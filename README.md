@@ -2,6 +2,7 @@
 
 A modern, responsive, and interactive personal portfolio website built with a **decoupled architecture**. It features a **Laravel REST API** backend paired with a **Vanilla JavaScript** frontend, styled with a distinct **neo-brutalist** design system.
 
+![Preview](Screenshot 2026-04-18 213435.png)
 ## 🚀 Features
 
 - **Decoupled Architecture**: Clear separation of concerns between backend (API) and frontend (UI).
